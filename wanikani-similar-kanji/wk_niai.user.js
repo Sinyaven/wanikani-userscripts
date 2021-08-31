@@ -26,18 +26,18 @@
 //
 // @resource    niai_style     https://raw.githubusercontent.com/mwil/wanikani-userscripts/master/wanikani-similar-kanji/css/wk_niai.css
 //
-// @resource    chargrid       https://raw.githubusercontent.com/mwil/wanikani-userscripts/9613d7da06618c4f55519ae1edbc9c706db13a59/styles/css/chargrid.css
-// @resource    bootstrapcss   https://raw.githubusercontent.com/mwil/wanikani-userscripts/9613d7da06618c4f55519ae1edbc9c706db13a59/styles/bootstrap/css/bootstrap.crop.css
+// @resource    chargrid       https://raw.githubusercontent.com/mwil/wanikani-userscripts/c063a359e4308a28887769c58e958fa3ca600ff5/styles/css/chargrid.css
+// @resource    bootstrapcss   https://raw.githubusercontent.com/mwil/wanikani-userscripts/c063a359e4308a28887769c58e958fa3ca600ff5/styles/bootstrap/css/bootstrap.crop.css
 //
-// @resource    bootstrap-js   https://raw.githubusercontent.com/mwil/wanikani-userscripts/9613d7da06618c4f55519ae1edbc9c706db13a59/styles/bootstrap/js/bootstrap.js
-// @resource    b-dropdown-js  https://raw.githubusercontent.com/mwil/wanikani-userscripts/9613d7da06618c4f55519ae1edbc9c706db13a59/styles/bootstrap/js/bootstrap-dropdown.js
+// @resource    bootstrap-js   https://raw.githubusercontent.com/mwil/wanikani-userscripts/c063a359e4308a28887769c58e958fa3ca600ff5/styles/bootstrap/js/bootstrap.js
+// @resource    b-dropdown-js  https://raw.githubusercontent.com/mwil/wanikani-userscripts/c063a359e4308a28887769c58e958fa3ca600ff5/styles/bootstrap/js/bootstrap-dropdown.js
 //
 // @require     https://greasyfork.org/scripts/430565-wanikani-item-info-injector/code/WaniKani%20Item%20Info%20Injector.user.js?version=962341
 //
-// @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/9613d7da06618c4f55519ae1edbc9c706db13a59/wanikani-similar-kanji/wk_niai.db.js
-// @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/9613d7da06618c4f55519ae1edbc9c706db13a59/wanikani-similar-kanji/wk_niai.modal.js
-// @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/9613d7da06618c4f55519ae1edbc9c706db13a59/wanikani-similar-kanji/wk_niai.html.js
-// @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/9613d7da06618c4f55519ae1edbc9c706db13a59/wanikani-similar-kanji/wk_niai.main.js
+// @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/c063a359e4308a28887769c58e958fa3ca600ff5/wanikani-similar-kanji/wk_niai.db.js
+// @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/c063a359e4308a28887769c58e958fa3ca600ff5/wanikani-similar-kanji/wk_niai.modal.js
+// @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/c063a359e4308a28887769c58e958fa3ca600ff5/wanikani-similar-kanji/wk_niai.html.js
+// @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/c063a359e4308a28887769c58e958fa3ca600ff5/wanikani-similar-kanji/wk_niai.main.js
 //
 // @grant       GM_log
 // @grant       GM_getValue
