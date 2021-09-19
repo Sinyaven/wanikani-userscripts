@@ -34,7 +34,7 @@
 //
 // @require     https://greasyfork.org/scripts/430565-wanikani-item-info-injector/code/WaniKani%20Item%20Info%20Injector.user.js?version=969075
 //
-// @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/c063a359e4308a28887769c58e958fa3ca600ff5/wanikani-similar-kanji/wk_niai.db.js
+// @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/b20555a9812af66a9db7c4df6d0ec605a24f4330/wanikani-similar-kanji/wk_niai.db.js
 // @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/c063a359e4308a28887769c58e958fa3ca600ff5/wanikani-similar-kanji/wk_niai.modal.js
 // @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/c063a359e4308a28887769c58e958fa3ca600ff5/wanikani-similar-kanji/wk_niai.html.js
 // @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/c063a359e4308a28887769c58e958fa3ca600ff5/wanikani-similar-kanji/wk_niai.main.js
