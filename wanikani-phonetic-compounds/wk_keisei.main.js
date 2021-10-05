@@ -78,7 +78,7 @@ function WK_Keisei()
         if (this.settings.minify)
         {
             $(`#keisei_main_fold`).hide();
-            $(`#keisei_head_visibility i`).attr(`class`, `fa-eye`);
+            $(`#keisei_head_visibility i`).attr(`class`, `fa fa-eye-slash`);
         }
     };
     // #########################################################################
