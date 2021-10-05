@@ -29,9 +29,9 @@
 // @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/9613d7da06618c4f55519ae1edbc9c706db13a59/wanikani-phonetic-compounds/wk_keisei.db.js
 // @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/9613d7da06618c4f55519ae1edbc9c706db13a59/wanikani-phonetic-compounds/wk_keisei.strings.en.js
 // @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/32fed9d419752e7c5f874972e2c8b95427ffce79/wanikani-phonetic-compounds/wk_keisei.modal.js
-// @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/32fed9d419752e7c5f874972e2c8b95427ffce79/wanikani-phonetic-compounds/wk_keisei.html.js
-// @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/32fed9d419752e7c5f874972e2c8b95427ffce79/wanikani-phonetic-compounds/wk_keisei.nav.js
-// @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/32fed9d419752e7c5f874972e2c8b95427ffce79/wanikani-phonetic-compounds/wk_keisei.main.js
+// @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/e70fc3661bc813a00a352ec9fcdfa5aae842b86e/wanikani-phonetic-compounds/wk_keisei.html.js
+// @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/e70fc3661bc813a00a352ec9fcdfa5aae842b86e/wanikani-phonetic-compounds/wk_keisei.nav.js
+// @require     https://raw.githubusercontent.com/mwil/wanikani-userscripts/e70fc3661bc813a00a352ec9fcdfa5aae842b86e/wanikani-phonetic-compounds/wk_keisei.main.js
 //
 // @grant       GM_log
 // @grant       GM_getValue
