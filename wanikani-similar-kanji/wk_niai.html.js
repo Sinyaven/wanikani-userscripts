@@ -57,7 +57,7 @@
                                 </a>`)
                         .append(`<span id="add_kanji_dropdown">
                                      <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
-                                         <span class="fa fa-plus-square"></span>
+                                         <span class="fa fa-plus"></span>
                                      </a>
                                      <ul class="note-niai dropdown-menu text-center">
                                         <li>
@@ -76,7 +76,7 @@
                                                 <textarea id="niai_add_similar_input" maxlength="1" rows="1" class="span2" type="text" placeholder="Enter Kanji Here"></textarea>
                                             </span>
                                         </li>
-                                        <li><a id="add_kanji_btn"><i class="fa fa-fw fa-plus-square"></i> Add To Similar Kanji</a></li>
+                                        <li><a id="add_kanji_btn"><i class="fa fa-fw fa-plus"></i> Add To Similar Kanji</a></li>
                                      </ul>
                                  </span>`)
                         .append(`<a class="btn disabled" id="niai_reset_similar_btn">
