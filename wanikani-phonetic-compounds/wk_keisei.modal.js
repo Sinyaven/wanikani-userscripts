@@ -44,7 +44,7 @@
                         </p>
                         <p>
                             <div class="btn-group-lg text-center">
-                                <a class="btn" id="keisei_settings_btn_onlywk"><i class="icon-cny"></i> Show Only Kanji in Wanikani</a>
+                                <a class="btn" id="keisei_settings_btn_onlywk"><i class="fa fa-filter"></i> Show Only Kanji in Wanikani</a>
                             </div>
                         </p>
                         <p>
